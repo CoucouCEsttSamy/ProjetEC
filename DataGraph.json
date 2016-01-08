@@ -1,0 +1,1218 @@
+[  
+   {  
+      "Equipe":"Algerie",
+      "Hors Championnat":21,
+      "Championnat National":2,
+      "Clubs":[  
+         {  
+            "Club":"CS Constantine",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"USM Alger",
+            "NbJoueurs":1
+         }
+      ]
+   },
+   {  
+      "Equipe":"Allemagne",
+      "Hors Championnat":7,
+      "Championnat National":16,
+      "Clubs":[  
+         {  
+            "Club":"1. FC Nürnberg",
+            "NbJoueurs":4
+         },
+         {  
+            "Club":"1860 München",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"1899 Hoffenheim",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Augsburg",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Bayer Leverkusen",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"Bayern Munich",
+            "NbJoueurs":14
+         },
+         {  
+            "Club":"Borussia Dortmund",
+            "NbJoueurs":6
+         },
+         {  
+            "Club":"Borussia Mönchengladbach",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Eintracht Braunschweig",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Eintracht Frankfurt",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"FC Augsburg",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Fortuna Düsseldorf",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"FSV Frankfurt",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Hamburger SV",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Hannover 96",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"Hertha BSC",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Mainz 5",
+            "NbJoueurs":5
+         },
+         {  
+            "Club":"SC Freiburg",
+            "NbJoueurs":4
+         },
+         {  
+            "Club":"Schalke 04",
+            "NbJoueurs":7
+         },
+         {  
+            "Club":"VfB Stuttgart",
+            "NbJoueurs":4
+         },
+         {  
+            "Club":"VfL Wolfsburg",
+            "NbJoueurs":7
+         },
+         {  
+            "Club":"VfR Aalen",
+            "NbJoueurs":1
+         }
+      ]
+   },
+   {  
+      "Equipe":"Angleterre",
+      "Hors Championnat":1,
+      "Championnat National":22,
+      "Clubs":[  
+         {  
+            "Club":"Arsenal",
+            "NbJoueurs":10
+         },
+         {  
+            "Club":"Aston Villa",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Bolton Wanderers",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Cardiff City",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Charlton Athletic",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Chelsea",
+            "NbJoueurs":12
+         },
+         {  
+            "Club":"Crystal Palace",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Everton",
+            "NbJoueurs":6
+         },
+         {  
+            "Club":"Fulham",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"Hull City",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Leicester City",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Liverpool",
+            "NbJoueurs":10
+         },
+         {  
+            "Club":"Manchester City",
+            "NbJoueurs":10
+         },
+         {  
+            "Club":"Manchester United",
+            "NbJoueurs":14
+         },
+         {  
+            "Club":"Middlesbrough",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Newcastle United",
+            "NbJoueurs":6
+         },
+         {  
+            "Club":"Norwich City",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Nottingham Forest",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Preston North End",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Queens Park Rangers",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Southampton",
+            "NbJoueurs":7
+         },
+         {  
+            "Club":"Stoke City",
+            "NbJoueurs":4
+         },
+         {  
+            "Club":"Sunderland",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Swansea City",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"Swindon Town",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Tottenham Hotspur",
+            "NbJoueurs":6
+         },
+         {  
+            "Club":"Watford",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"West Bromwich Albion",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"West Ham United",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Wigan Athletic",
+            "NbJoueurs":3
+         }
+      ]
+   },
+   {  
+      "Equipe":"Argentine",
+      "Hors Championnat":20,
+      "Championnat National":3,
+      "Clubs":[  
+         {  
+            "Club":"Boca Juniors",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Newell's Old Boys",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"River Plate",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"San Lorenzo",
+            "NbJoueurs":1
+         }
+      ]
+   },
+   {  
+      "Equipe":"Australie",
+      "Hors Championnat":17,
+      "Championnat National":6,
+      "Clubs":[  
+         {  
+            "Club":"Adelaide United",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Brisbane Roar",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Melbourne Victory",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Newcastle Jets",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Western Sydney Wanderers",
+            "NbJoueurs":1
+         }
+      ]
+   },
+   {  
+      "Equipe":"Belgique",
+      "Hors Championnat":20,
+      "Championnat National":3,
+      "Clubs":[  
+         {  
+            "Club":"Anderlecht",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Cercle Brugge",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Club Brugge",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Lokeren",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Standard Liege",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"Waasland-Beveren",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Zulte Waregem",
+            "NbJoueurs":2
+         }
+      ]
+   },
+   {  
+      "Equipe":"Bosnie-Herzegovine",
+      "Hors Championnat":22,
+      "Championnat National":1,
+      "Clubs":[  
+         {  
+            "Club":"and Herzegovina Borac Banja",
+            "NbJoueurs":1
+         }
+      ]
+   },
+   {  
+      "Equipe":"Bresil",
+      "Hors Championnat":19,
+      "Championnat National":4,
+      "Clubs":[  
+         {  
+            "Club":"Atletico Mineiro",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Botafogo",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Flamengo",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Fluminense",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Internacional",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Palmeiras",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Santos",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"São Paulo",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Vasco da Gama",
+            "NbJoueurs":1
+         }
+      ]
+   },
+   {  
+      "Equipe":"Cameroun",
+      "Hors Championnat":21,
+      "Championnat National":2,
+      "Clubs":[  
+         {  
+            "Club":"Coton Sport",
+            "NbJoueurs":2
+         }
+      ]
+   },
+   {  
+      "Equipe":"Chili",
+      "Hors Championnat":18,
+      "Championnat National":5,
+      "Clubs":[  
+         {  
+            "Club":"Colo-Colo",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Universidad Catolica",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Universidad de Chili",
+            "NbJoueurs":2
+         }
+      ]
+   },
+   {  
+      "Equipe":"Colombie",
+      "Hors Championnat":20,
+      "Championnat National":3,
+      "Clubs":[  
+         {  
+            "Club":"Atletico Nacional",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Deportivo Cali",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Santa Fe",
+            "NbJoueurs":2
+         }
+      ]
+   },
+   {  
+      "Equipe":"Coree du Sud",
+      "Hors Championnat":17,
+      "Championnat National":6,
+      "Clubs":[  
+         {  
+            "Club":"Busan I'Park",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Jeonbuk Hyundai Motors",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Sangju Sangmu",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Suwon Bluewings",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Ulsan Hyundai",
+            "NbJoueurs":3
+         }
+      ]
+   },
+   {  
+      "Equipe":"Costa Rica",
+      "Hors Championnat":14,
+      "Championnat National":9,
+      "Clubs":[  
+         {  
+            "Club":"Alajuelense",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"Cartagines",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Herediano",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"Saprissa",
+            "NbJoueurs":3
+         }
+      ]
+   },
+   {  
+      "Equipe":"Cote d'Ivoire",
+      "Hors Championnat":22,
+      "Championnat National":1,
+      "Clubs":[  
+         {  
+            "Club":"Sewe Sport",
+            "NbJoueurs":1
+         }
+      ]
+   },
+   {  
+      "Equipe":"Croatie",
+      "Hors Championnat":21,
+      "Championnat National":2,
+      "Clubs":[  
+         {  
+            "Club":"Dinamo Zagreb",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Hajduk Split",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Lokomotiva",
+            "NbJoueurs":1
+         }
+      ]
+   },
+   {  
+      "Equipe":"Equateur",
+      "Hors Championnat":15,
+      "Championnat National":8,
+      "Clubs":[  
+         {  
+            "Club":"Barcelona",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"El Nacional",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Emelec",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"LDU Quito",
+            "NbJoueurs":1
+         }
+      ]
+   },
+   {  
+      "Equipe":"Espagne",
+      "Hors Championnat":9,
+      "Championnat National":14,
+      "Clubs":[  
+         {  
+            "Club":"Almeria",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Atletico Madrid",
+            "NbJoueurs":9
+         },
+         {  
+            "Club":"Barcelona",
+            "NbJoueurs":13
+         },
+         {  
+            "Club":"Celta Vigo",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Elche",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Espanyol",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Getafe",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Granada",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"Las Palmas",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Levante",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Mallorca",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Osasuna",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Real Madrid",
+            "NbJoueurs":12
+         },
+         {  
+            "Club":"Real Sociedad  Espagne",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"Sevilla",
+            "NbJoueurs":4
+         },
+         {  
+            "Club":"Valencia",
+            "NbJoueurs":5
+         },
+         {  
+            "Club":"Villarreal",
+            "NbJoueurs":2
+         }
+      ]
+   },
+   {  
+      "Equipe":"Etats-Unis",
+      "Hors Championnat":13,
+      "Championnat National":10,
+      "Clubs":[  
+         {  
+            "Club":"Chivas USA",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Columbus Crew",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Houston Dynamo",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Los Angeles Galaxy",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"New Angleterre Revolution",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"New York Red Bulls",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Real Salt Lake",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"San Jose Earthquakes",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Seattle Sounders FC",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Sporting Kansas City",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Toronto FC",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Vancouver Whitecaps",
+            "NbJoueurs":1
+         }
+      ]
+   },
+   {  
+      "Equipe":"France",
+      "Hors Championnat":15,
+      "Championnat National":8,
+      "Clubs":[  
+         {  
+            "Club":"Ajaccio",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Bastia",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Bordeaux",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Evian TG",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Lens",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Lille",
+            "NbJoueurs":4
+         },
+         {  
+            "Club":"Lorient",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Lyon",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Marseille",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"Monaco",
+            "NbJoueurs":5
+         },
+         {  
+            "Club":"Montpellier",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Nancy",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Nantes",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Nice",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Paris Saint-Germain",
+            "NbJoueurs":10
+         },
+         {  
+            "Club":"Reims",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Rennes",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Saint-etienne",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"Sochaux",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Toulouse",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"Valenciennes",
+            "NbJoueurs":2
+         }
+      ]
+   },
+   {  
+      "Equipe":"Ghana",
+      "Hors Championnat":22,
+      "Championnat National":1,
+      "Clubs":[  
+         {  
+            "Club":"Aduana Stars",
+            "NbJoueurs":1
+         }
+      ]
+   },
+   {  
+      "Equipe":"Grece",
+      "Hors Championnat":14,
+      "Championnat National":9,
+      "Clubs":[  
+         {  
+            "Club":"Olympiacos",
+            "NbJoueurs":5
+         },
+         {  
+            "Club":"Panathinaikos",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"PAOK",
+            "NbJoueurs":4
+         },
+         {  
+            "Club":"Platanias",
+            "NbJoueurs":1
+         }
+      ]
+   },
+   {  
+      "Equipe":"Honduras",
+      "Hors Championnat":12,
+      "Championnat National":11,
+      "Clubs":[  
+         {  
+            "Club":"Motagua",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Olimpia",
+            "NbJoueurs":4
+         },
+         {  
+            "Club":"Real Espana",
+            "NbJoueurs":4
+         },
+         {  
+            "Club":"Real Sociedad",
+            "NbJoueurs":1
+         }
+      ]
+   },
+   {  
+      "Equipe":"Iran",
+      "Hors Championnat":9,
+      "Championnat National":14,
+      "Clubs":[  
+         {  
+            "Club":"Esteghlal",
+            "NbJoueurs":4
+         },
+         {  
+            "Club":"Foolad",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Naft Tehran",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Persepolis",
+            "NbJoueurs":4
+         },
+         {  
+            "Club":"Sepahan",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Tractor Sazi",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Zob Ahan",
+            "NbJoueurs":1
+         }
+      ]
+   },
+   {  
+      "Equipe":"Italie",
+      "Hors Championnat":3,
+      "Championnat National":20,
+      "Clubs":[  
+         {  
+            "Club":"Atalanta",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"Bologna",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"Cagliari",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Catania",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Fiorentina",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"Genoa",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"Internazionale",
+            "NbJoueurs":8
+         },
+         {  
+            "Club":"Juventus",
+            "NbJoueurs":12
+         },
+         {  
+            "Club":"Lazio",
+            "NbJoueurs":7
+         },
+         {  
+            "Club":"Livorno",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Milan",
+            "NbJoueurs":8
+         },
+         {  
+            "Club":"Napoli",
+            "NbJoueurs":12
+         },
+         {  
+            "Club":"Palermo",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Parma",
+            "NbJoueurs":5
+         },
+         {  
+            "Club":"Roma",
+            "NbJoueurs":5
+         },
+         {  
+            "Club":"Sampdoria",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Sassuolo",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Torino",
+            "NbJoueurs":4
+         },
+         {  
+            "Club":"Udinese",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Verona",
+            "NbJoueurs":1
+         }
+      ]
+   },
+   {  
+      "Equipe":"Japon",
+      "Hors Championnat":12,
+      "Championnat National":11,
+      "Clubs":[  
+         {  
+            "Club":"Cerezo Osaka",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"F.C. Tokyo",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Gamba Osaka",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Jubilo Iwata",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Kashiwa Reysol",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Kawasaki Frontale",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Sanfrecce Hiroshima",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Urawa Red Diamonds",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Yokohama F. Marinos",
+            "NbJoueurs":1
+         }
+      ]
+   },
+   {  
+      "Equipe":"Mexique",
+      "Hors Championnat":8,
+      "Championnat National":15,
+      "Clubs":[  
+         {  
+            "Club":"America",
+            "NbJoueurs":4
+         },
+         {  
+            "Club":"Atlante",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Cruz Azul",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"Leon",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"Monterrey",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Morelia",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Pachuca",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Puebla",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Santos Laguna",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Tijuana",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Toluca",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"UANL",
+            "NbJoueurs":2
+         }
+      ]
+   },
+   {  
+      "Equipe":"Nigeria",
+      "Hors Championnat":20,
+      "Championnat National":3,
+      "Clubs":[  
+         {  
+            "Club":"Gombe United",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Sunshine Stars",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Warri Wolves",
+            "NbJoueurs":1
+         }
+      ]
+   },
+   {  
+      "Equipe":"Pays-Bas",
+      "Hors Championnat":13,
+      "Championnat National":10,
+      "Clubs":[  
+         {  
+            "Club":"Ajax",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"AZ",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Feyenoord",
+            "NbJoueurs":5
+         },
+         {  
+            "Club":"Heerenveen",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Heracles Almelo",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"NEC",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"PSV",
+            "NbJoueurs":4
+         },
+         {  
+            "Club":"Twente",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Utrecht",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Vitesse",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Academica",
+            "NbJoueurs":1
+         }
+      ]
+   },
+   {  
+      "Equipe":"Portugal",
+      "Hors Championnat":15,
+      "Championnat National":8,
+      "Clubs":[  
+         {  
+            "Club":"Benfica",
+            "NbJoueurs":5
+         },
+         {  
+            "Club":"Braga",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"Porto",
+            "NbJoueurs":9
+         },
+         {  
+            "Club":"Sporting",
+            "NbJoueurs":3
+         },
+         {  
+            "Club":"Sporting Covilhã",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Sporting CP",
+            "NbJoueurs":1
+         }
+      ]
+   },
+   {  
+      "Equipe":"Russie",
+      "Hors Championnat":0,
+      "Championnat National":23,
+      "Clubs":[  
+         {  
+            "Club":"Anzhi Makhachkala",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"CSKA Moscow",
+            "NbJoueurs":6
+         },
+         {  
+            "Club":"Dynamo Moscow",
+            "NbJoueurs":7
+         },
+         {  
+            "Club":"Kuban Krasnodar",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Lokomotiv Moscow",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Rostov",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Rubin Kazan",
+            "NbJoueurs":4
+         },
+         {  
+            "Club":"Spartak Moscow",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Terek Grozny",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Zenit Saint Petersburg",
+            "NbJoueurs":8
+         }
+      ]
+   },
+   {  
+      "Equipe":"Suisse",
+      "Hors Championnat":16,
+      "Championnat National":7,
+      "Clubs":[  
+         {  
+            "Club":"Basel",
+            "NbJoueurs":6
+         },
+         {  
+            "Club":"Grasshopper",
+            "NbJoueurs":2
+         },
+         {  
+            "Club":"Luzern",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Sion",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Young Boys",
+            "NbJoueurs":1
+         },
+         {  
+            "Club":"Zürich",
+            "NbJoueurs":1
+         }
+      ]
+   },
+   {  
+      "Equipe":"Uruguay",
+      "Hors Championnat":22,
+      "Championnat National":1,
+      "Clubs":[  
+         {  
+            "Club":"Nacional",
+            "NbJoueurs":1
+         }
+      ]
+   }
+]
